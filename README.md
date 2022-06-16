@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RegulusBai, a undergraduate student in Northwestern Polytenical Uninversity, Xi'an, CN.
+- Now I'm working in SAP as an intern.
 - 👀 I’m interested in ML/CV.
 - 🌱 I’m currently learning Statistics.
 - 📫 How to reach me ： baiyibo0821@gmail.com
