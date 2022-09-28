@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RegulusBai, an undergraduate student in (NWPU)Northwestern Polytenical Uninversity, Xi'an, CN.
+- 👋 Hi, I’m @RegulusBai, an undergraduate student in NWPU(Northwestern Polytenical Uninversity), Xi'an, CN.
 - 💪 Now I'm working for SAP as an intern member.
 - 👀 I’m interested in ML/CV/Speech.
 - 🌱 I’m currently learning Statistics.
