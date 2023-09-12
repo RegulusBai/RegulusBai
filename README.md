@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RegulusBai, an MSc student at [HKU](https://hku.hk/), Hong Kong S.A.R. China.
+- 👋 Hi, I’m @RegulusBai, a MSc student at [HKU](https://hku.hk/), Hong Kong S.A.R. China.
 - 💪 Previous undergraduate at [NWPU](https://www.nwpu.edu.cn/).
 - ✨ Previous intern at [SAP](https://www.sap.com/index.html).
 - 👀 I’m interested in ML/Speech/Signal Processing.
