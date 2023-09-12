@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RegulusBai, a MSc student at [HKU](https://hku.hk/), Hong Kong S.A.R. China.
 - 💪 Previous undergraduate at [NWPU](https://www.nwpu.edu.cn/).
-- ✨ Previous intern at [SAP](https://www.sap.com/index.html).
+- ✨ Previous intern at [SAP](https://www.sap.com/).
 - 👀 I’m interested in ML/Speech/Signal Processing.
 - 🌱 I’m currently learning Statistics.
 - 📫 How to reach me ： baiyibo0821@gmail.com
