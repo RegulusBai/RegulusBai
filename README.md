@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @RegulusBai, an undergraduate student in NWPU(Northwestern Polytenical Uninversity), Xi'an, CN.
-- 💪 Now I'm working for SAP as an intern member.
-- 👀 I’m interested in ML/CV/Speech.
+- 👋 Hi, I’m @RegulusBai, an MSc student at [HKU](https://hku.hk/), Hong Kong S.A.R. China.
+- 💪 Previous undergraduate at [NWPU](https://www.nwpu.edu.cn/).
+- ✨ Previous intern at [SAP](https://www.sap.com/index.html).
+- 👀 I’m interested in ML/Speech/Signal Processing.
 - 🌱 I’m currently learning Statistics.
 - 📫 How to reach me ： baiyibo0821@gmail.com
 
