@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Regulus, a PhD student at EURECOM, France.
-- 🐢 Audio Securty and Privacy group.
+- 👋 Hi, I’m Regulus, a PhD student at [EURECOM](https://www.eurecom.fr/), France.
+- 🐢 [Audio Security and Privacy](https://github.com/eurecom-asp)  group.
 - 🌊 Master at [HKU](https://hku.hk/).
 - 💪 Bachelor at [NWPU](https://www.nwpu.edu.cn/).
 - ✨ Previous intern at [SAP](https://www.sap.com/).
